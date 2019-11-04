@@ -1,5 +1,5 @@
 # Python---RockPaperScissors
-Python code for the implementation of a hangman game.
+Python code for the implementation of a Rock Paper Scissors game.
 The game is played against the CPU
 
 Skills demonstrated:
